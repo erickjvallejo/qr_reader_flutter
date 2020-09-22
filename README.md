@@ -1,6 +1,6 @@
-# qrreaderapp
+# QR Reader App
 
-A new Flutter application.
+A new Flutter application to get QR Code to open web pages or geolocation.
 
 ## Getting Started
 
